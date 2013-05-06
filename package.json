@@ -1,7 +1,7 @@
 {
   "name": "zaim-cli",
   "description": "CLI based Zaim client",
-  "version": "0.0.01",
+  "version": "0.0.15",
   "author": "Shintaro Katafuchi",
   "keywords": [
     "Zaim", "CLI"
