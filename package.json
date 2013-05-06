@@ -1,0 +1,32 @@
+{
+  "name": "zaim-cli",
+  "description": "CLI based Zaim client",
+  "version": "0.0.01",
+  "author": "Shintaro Katafuchi",
+  "keywords": [
+    "Zaim", "CLI"
+  ],
+  "main": "zaim",
+  "bin": {
+    "zaim": "./bin/zaim"
+  },
+  "engine": [
+    "node >=0.8.0"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hotchemi/zaim-cli.git"
+  },
+  "dependencies": {
+    "colors": "*",
+    "commander": ">=1.0.4",
+    "zaim": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/hotchemi/zaim-cli/issues"
+  },
+  "licenses":[{
+    "type":"MIT",
+    "url":"https://github.com/hotchemi/zaim-cli/blob/master/LICENSE"
+  }]
+}
